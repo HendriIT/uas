@@ -6,82 +6,82 @@ const Trending = () => {
       <Row>
         <Col md={4} className="movieWrapper">
           <Card className="bg-transparent text-white text-center movieImage">
-            <Image src="/M.jpg" alt="card image" height="auto"></Image>
+            <Image src="/G1.jpg" alt="card image" height="auto"></Image>
             <div className="bg-dark p-2 m-1">
-              <Card.Text>Minions The Rise Of Gru</Card.Text>
-              <Card.Text>Bagus 3.8/4.0</Card.Text>
+              <Card.Text>Cek Toko Sebelah</Card.Text>
+              <Card.Text>GOOD 3.7/4.0</Card.Text>
             </div>
           </Card>
         </Col>
         <Col md={4} className="movieWrapper">
           <Card className="bg-transparent text-white text-center movieImage">
-            <Image src="/T.jpeg" alt="card image" height="auto"></Image>
+            <Image src="/G2.jpg" alt="card image" height="auto"></Image>
             <div className="bg-dark p-2 m-1">
-              <Card.Text>Transformers Age Of Extinction</Card.Text>
-              <Card.Text>Bagus 3.8/4.0</Card.Text>
+              <Card.Text>Comic 8</Card.Text>
+              <Card.Text>RECOMENDED 3.9/4.0</Card.Text>
             </div>
           </Card>
         </Col>
         <Col md={4} className="movieWrapper">
           <Card className="bg-transparent text-white text-center movieImage">
-            <Image src="/O.png" alt="card image" height="auto"></Image>
+            <Image src="/G3.jpg" alt="card image" height="auto"></Image>
             <div className="bg-dark p-2 m-1">
-              <Card.Text>One Piece Stampede</Card.Text>
-              <Card.Text>Bagus 3.8/4.0</Card.Text>
+              <Card.Text>Warkop DKI Reborn</Card.Text>
+              <Card.Text>GOOD 3.8/4.0</Card.Text>
             </div>
           </Card>
         </Col>
         <Col md={4} className="movieWrapper">
           <Card className="bg-transparent text-white text-center movieImage">
-            <Image src="/S.jpg" alt="card image" height="auto"></Image>
+            <Image src="/G4.jpg" alt="card image" height="auto"></Image>
             <div className="bg-dark p-2 m-1">
-              <Card.Text>Sonic 2 The Hedgehog</Card.Text>
-              <Card.Text>Bagus 3.8/4.0</Card.Text>
+              <Card.Text>Sesuai Aplikasi</Card.Text>
+              <Card.Text>RECOMENDED 3.9/4.0</Card.Text>
             </div>
           </Card>
         </Col>
         <Col md={4} className="movieWrapper">
           <Card className="bg-transparent text-white text-center movieImage">
-            <Image src="/J.jpg" alt="card image" height="auto"></Image>
+            <Image src="/G5.jpg" alt="card image" height="auto"></Image>
             <div className="bg-dark p-2 m-1">
-              <Card.Text>Jurassic World Dominion</Card.Text>
-              <Card.Text>Bagus 3.8/4.0</Card.Text>
+              <Card.Text>Ngeri-Ngeri Sedap</Card.Text>
+              <Card.Text>GOOD 3.8/4.0</Card.Text>
             </div>
           </Card>
         </Col>
         <Col md={4} className="movieWrapper">
           <Card className="bg-transparent text-white text-center movieImage">
-            <Image src="/D.jpg" alt="card image" height="auto"></Image>
+            <Image src="/G6.jpg" alt="card image" height="auto"></Image>
             <div className="bg-dark p-2 m-1">
-              <Card.Text>Doctor Stranger In The Multiverse Of Madness</Card.Text>
-              <Card.Text>Bagus 3.8/4.0</Card.Text>
+              <Card.Text>My Stupid Boss</Card.Text>
+              <Card.Text>GOOD 3.8/4.0</Card.Text>
             </div>
           </Card>
         </Col>
         <Col md={4} className="movieWrapper">
           <Card className="bg-transparent text-white text-center movieImage">
-            <Image src="/TY.jpg" alt="card image" height="auto"></Image>
+            <Image src="/G7.jpg" alt="card image" height="auto"></Image>
             <div className="bg-dark p-2 m-1">
-              <Card.Text>Toy Story Lightyear</Card.Text>
-              <Card.Text>Bagus 3.8/4.0</Card.Text>
+              <Card.Text>Mangga Muda</Card.Text>
+              <Card.Text>GOOD 3.8/4.0</Card.Text>
             </div>
           </Card>
         </Col>
         <Col md={4} className="movieWrapper">
           <Card className="bg-transparent text-white text-center movieImage">
-            <Image src="/jhdsfjkhsfhsfljkhsfjkhskjflsh.jpg" alt="card image" height="auto"></Image>
+            <Image src="/G8.jpg" alt="card image" height="auto"></Image>
             <div className="bg-dark p-2 m-1">
-              <Card.Text>Spiderman No Way Home</Card.Text>
-              <Card.Text>Bagus 3.8/4.0</Card.Text>
+              <Card.Text>Yowis Ben</Card.Text>
+              <Card.Text>GOOD 3.8/4.0</Card.Text>
             </div>
           </Card>
         </Col>
         <Col md={4} className="movieWrapper">
           <Card className="bg-transparent text-white text-center movieImage">
-            <Image src="/ljlkjdfkldjflksjklfjsfjsjskhfjskhf.jpg" alt="card image" height="auto"></Image>
+            <Image src="/G9.jpg" alt="card image" height="auto"></Image>
             <div className="bg-dark p-2 m-1">
-              <Card.Text>The Dark Knight</Card.Text>
-              <Card.Text>Bagus 3.8/4.0</Card.Text>
+              <Card.Text>Baby Blues</Card.Text>
+              <Card.Text>GOOD 3.6/4.0</Card.Text>
             </div>
           </Card>
         </Col>

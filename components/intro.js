@@ -7,7 +7,7 @@ const Intro = (props) => {
         <Row>
           <Col>
             <div className="title">Review Film</div>
-            <div className="title">Kesukaanmu</div>
+            <div className="title">Favorite Mu</div>
             <div className="introButton mt-4 text-center">
               <Button variant="dark" onClick={props.scroll}>
                 Lihat Review

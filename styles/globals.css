@@ -15,7 +15,7 @@ a {
 }
 .myBG {
   height: 100vh;
-  background: url("../assets/images/bg/ID-id-20220523-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+  background: url("../assets/images/bg/BG2.jpg");
 }
 .htmlAll {
   background-color: #f6ddb9;
@@ -32,14 +32,20 @@ a {
   font-size: 3rem;
   font-weight: 800;
   line-height: 1;
-  text-shadow: 2px 2px black;
+  text-shadow: 2px 2px rgb(0, 0, 0);
   letter-spacing: 3px;
   color: white;
 }
 
+.Navbar {
+  line-height:16px;
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: white;
+}
 .trending {
   height: auto;
-  background: url("../assets/images/bg/ID-id-20220523-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+  background: url("../assets/images/bg/BG2.jpg");
 }
 .movieImage {
   height: auto;
